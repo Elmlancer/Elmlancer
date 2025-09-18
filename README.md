@@ -66,9 +66,9 @@
 
 ## 📬 ارتباط با ما
 - 🌐 وب‌سایت: *(به زودی فعال می‌شود)*  
-- 💼 لینکدین: [linkedin.com/in/elmlancer](https://www.linkedin.com/in/elmlancer)  
-- 📸 اینستاگرام: [@elmlancer](https://www.instagram.com/elmlancer)  
-- 📢 تلگرام: [t.me/Elmlancer](https://t.me/Elmlancer)  
-- 🐦 توییتر (X): [@Elmlancer](https://twitter.com/Elmlancer)
-- 💻 گیت‌هاب: [github.com/Elmlancer/Elmlancer](https://github.com/Elmlancer/Elmlancer) 
+- 💼 لینکدین: [Linkedin](https://www.linkedin.com/in/elmlancer)  
+- 📸 اینستاگرام: [Instagram](https://www.instagram.com/elmlancer)  
+- 📢 تلگرام: [Telegram](https://t.me/Elmlancer)  
+- 🐦 توییتر (X): [Twitter](https://twitter.com/Elmlancer)
+- 💻 گیت‌هاب: [Git Hub](https://github.com/Elmlancer/Elmlancer) 
 - 📧 ایمیل: elmlancer.co@gmail.com  
